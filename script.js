@@ -1,5 +1,5 @@
 function indexOfIgnoreCase(s1, s2) {
-	    return str.toLowerCase().indexOf(subStr.toLowerCase());
+	    return s1.toLowerCase().indexOf(s2.toLowerCase());
 
 }
 
